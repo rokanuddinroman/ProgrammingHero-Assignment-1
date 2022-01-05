@@ -1,0 +1,23 @@
+.main-head{
+    font-family: 'Yeseva One', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+}
+.main-head-yellow{
+    color:#FFAD5A;
+}
+section{
+    display: flex;
+    margin: 140px 156px;
+}
+.half-width{
+    width: 50%;
+}
+p{
+    text-align: justify;
+}
+div img{
+    width: 0%;
+}
