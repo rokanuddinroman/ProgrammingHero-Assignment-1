@@ -41,7 +41,7 @@ p{
     font-family: 'Poppins', sans-serif;
     width: 500px;
     color: white;
-    padding: 10px 20px;
+    padding: 12px 25px;
     background-color: #FF5959;
     border-radius: 5px;
 }
@@ -85,6 +85,118 @@ p{
     width: ;
     border-radius: 26px;
 }
-#section-3-img{
-    width: 70%;
+.section-3{
+    display: flex;
+    margin: 0px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position-x: 20px;
+    background-position-y: 25px;
 }
+.section-3-margin{
+    display: flex;
+    margin-left:  106px;
+    margin-right: 106px;
+
+}
+.section-3-img{
+    width: 85%;
+}
+.area-40{
+    width: 60%;
+}
+.area-40 h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700px;
+    font-size: 38px;
+    line-height: 15px;
+    color: #333333;
+}
+.section-4{
+    display: flex;
+    margin: 0px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position:right;
+    background-position-y: 120%;
+}
+.section-4-img{
+    width: 50%;
+}
+.section-4 img{
+    width: 85%;
+    float: right;
+}
+.section-5 h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700px;
+    font-size: 38px;
+    line-height: 15px;
+    color: white;
+}
+.section-5 img{
+    width: 60%;
+    margin-bottom: 20px;
+}
+.section-5{
+    margin: 0px;
+    display: flex;
+    padding-top: 60px;
+    background-color: #FF5959;
+    color:white;
+}
+.contact-form{
+    align-items: left;
+}
+.contact-form-div{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 90px;
+    margin-right: 200px;
+
+}
+input{
+    background-color: #FF6060;
+    width: 100%;
+  border: 2px solid white;
+  border-radius: 4px;
+  padding: 10px 15px;
+}
+#message{
+  padding: 25px 15px;
+}
+input:focus{
+    color: white;
+    border:none;
+}
+button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    padding: 10px 50px;
+    color:#FF5959;
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+    float: right;
+}
+footer{
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #0B0D17;
+    text-align: center;
+}
+footer h1{
+
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+footer p{
+    text-align: center;
+}
+
+
