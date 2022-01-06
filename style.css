@@ -10,6 +10,9 @@
     padding-left: 10px
     ;
 }
+body{
+    margin: 0px;
+}
 p{
     font-family: 'Poppins', sans-serif;
     text-align: justify;
@@ -124,6 +127,7 @@ p{
 }
 .section-4-img{
     width: 50%;
+    
 }
 .section-4 img{
     width: 85%;
