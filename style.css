@@ -82,7 +82,6 @@ p{
 }
 .Goals{
     background-color: #FFF4D6;
-    margin-right: 30px;
     padding: 30px;
     width: ;
     border-radius: 26px;
@@ -140,7 +139,7 @@ p{
 }
 .section-5 img{
     width: 60%;
-    margin-bottom: 20px;
+    margin-bottom: -5px;
 }
 .section-5{
     margin: 0px;
