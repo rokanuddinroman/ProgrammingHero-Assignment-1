@@ -4,20 +4,84 @@
     font-weight: normal;
     font-size: 30px;
     line-height: 30px;
+    border-left: 3px solid;
+    border-radius: px;
+    border-color:#FF5959;
+    padding-left: 10px
+    ;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
 }
 .main-head-yellow{
     color:#FFAD5A;
 }
-section{
+.section-flex{
     display: flex;
-    margin: 140px 156px;
+    margin-left:  106px;
+    margin-right: 106px;
 }
 .half-width{
     width: 50%;
 }
-p{
-    text-align: justify;
+
+.half-width img{
+    width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-div img{
-    width: 0%;
+.section-text{
+    margin-top: 120px;
+    padding-left: ;
+}
+.link-button{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    width: 500px;
+    color: white;
+    padding: 10px 20px;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
+#link-margin{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.poppin-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700px;
+    font-size: 50px;
+}
+.one-third{
+    width: 33.33%;
+}
+.one-third h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700px;
+}
+.Mission{
+    background-color: #EDF5F6;
+    margin-right: 30px;
+    padding: 30px;
+    width: ;
+    border-radius: 26px;
+}
+.one-third img{
+    width: 45%;
+}
+.vision{
+    background-color: #FFEEEE;
+    margin-right: 30px;
+    padding: 30px;
+    width: ;
+    border-radius: 26px;
+}
+.Goals{
+    background-color: #FFF4D6;
+    margin-right: 30px;
+    padding: 30px;
+    width: ;
+    border-radius: 26px;
 }
